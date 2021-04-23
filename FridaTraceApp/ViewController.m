@@ -44,7 +44,6 @@
                         atomically:YES
                           encoding:NSUTF8StringEncoding
                              error:&error];
-
 }
 
 - (IBAction)data {
